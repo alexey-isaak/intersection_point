@@ -1,0 +1,15 @@
+C:\Users\alex\geekbrains\SEMINAR5\intersection_point\bin\Debug\net7.0\intersection_point.exe
+C:\Users\alex\geekbrains\SEMINAR5\intersection_point\bin\Debug\net7.0\intersection_point.deps.json
+C:\Users\alex\geekbrains\SEMINAR5\intersection_point\bin\Debug\net7.0\intersection_point.runtimeconfig.json
+C:\Users\alex\geekbrains\SEMINAR5\intersection_point\bin\Debug\net7.0\intersection_point.dll
+C:\Users\alex\geekbrains\SEMINAR5\intersection_point\bin\Debug\net7.0\intersection_point.pdb
+C:\Users\alex\geekbrains\SEMINAR5\intersection_point\obj\Debug\net7.0\intersection_point.csproj.AssemblyReference.cache
+C:\Users\alex\geekbrains\SEMINAR5\intersection_point\obj\Debug\net7.0\intersection_point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\geekbrains\SEMINAR5\intersection_point\obj\Debug\net7.0\intersection_point.AssemblyInfoInputs.cache
+C:\Users\alex\geekbrains\SEMINAR5\intersection_point\obj\Debug\net7.0\intersection_point.AssemblyInfo.cs
+C:\Users\alex\geekbrains\SEMINAR5\intersection_point\obj\Debug\net7.0\intersection_point.csproj.CoreCompileInputs.cache
+C:\Users\alex\geekbrains\SEMINAR5\intersection_point\obj\Debug\net7.0\intersection_point.dll
+C:\Users\alex\geekbrains\SEMINAR5\intersection_point\obj\Debug\net7.0\refint\intersection_point.dll
+C:\Users\alex\geekbrains\SEMINAR5\intersection_point\obj\Debug\net7.0\intersection_point.pdb
+C:\Users\alex\geekbrains\SEMINAR5\intersection_point\obj\Debug\net7.0\intersection_point.genruntimeconfig.cache
+C:\Users\alex\geekbrains\SEMINAR5\intersection_point\obj\Debug\net7.0\ref\intersection_point.dll
